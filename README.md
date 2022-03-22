@@ -6,8 +6,8 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 
 ## Evaluation Evidence
 
-![token_contract](images/token_contract.PNG)
+![token_contract](images/token_contract.png)
 
-![crowdsale](images/crowdsale.PNG)
+![crowdsale](images/crowdsale.png)
 
-![metamask](images/metamask.PNG)
+![metamask](images/metamask.png)
